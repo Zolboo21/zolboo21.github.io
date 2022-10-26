@@ -40,16 +40,6 @@ linkedin_username: Odonkhuu-Zolboo-
 about_profile_image: Directory of profile image (eg. images/profile.jpg)
 about_content: | # this will include new lines to allow paragraphs
 
-<h1 align="center">Hi 👋, I'm Zolboo</h1>
-<h3 align="center">A passionate Smart IoT student from Mongolia</h3>
-
-- 🔭 I’m currently working on Capstone Design **Parking lot information system using Image recognition Recon**
-
-- 🌱 I’m currently learning **GCP, Embedded system, Flutter**
-
-- 📫 How to reach me **zolboo.oz@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
     - Images ![alt text](/images/landscape-trees.jpg "Trees")
 
 content:
