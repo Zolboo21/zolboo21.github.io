@@ -39,15 +39,15 @@ linkedin_username: Odonkhuu-Zolboo-
 # about_title: About Me (Use this to override about section title)
 about_profile_image: https://scontent-ssn1-1.xx.fbcdn.net/v/t39.30808-6/311565750_1656513684798855_8778272613488972849_n.jpg?stp=cp6_dst-jpg&_nc_cat=105&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=-a9m-MrGiuoAX-R_5l7&_nc_ht=scontent-ssn1-1.xx&oh=00_AT_Y8-sQEpOD23H8KxcZm-0zHaKPYU2uke36Qvkn8WUA2g&oe=635E2558
 about_content: | # this will include new lines to allow paragraphs
-Hi, I am Zolboo from Mongolia and currently doing my undergraduate in South Korea at Hallym university majoring in Smart IoT. I am 2019 Korean Government scholarship student. I like riding bike and traveling.
+ Hi, I am Zolboo from Mongolia and currently doing my undergraduate in South Korea at Hallym university majoring in Smart IoT. I am 2019 Korean Government scholarship student. I like riding bike and traveling.
 
-I am most skilled in  <mark>Overthinking small problems</mark>, and <mark>Basketball</mark>
+ I am most skilled in  <mark>Overthinking small problems</mark>, and <mark>Basketball</mark>
 
 The things that I currently have the most experience working with are:
-<mark>Java</mark>,
-<mark>GCP</mark>,
-<mark>ESP32</mark> and
-<mark>Unity</mark>.
+ <mark>Java</mark>,
+ <mark>GCP</mark>,
+ <mark>ESP32</mark> and
+ <mark>Unity</mark>.
 
 
 content:
