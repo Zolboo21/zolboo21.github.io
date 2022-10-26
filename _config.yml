@@ -61,15 +61,15 @@ content:
          In 2 person's team, My role was to transfer data between arduino <mark>esp32</mark>
          and RaspberryPi and using <mark>Servo Motor</mark>, <mark>UltraSonicSensor</mark>.
          We also used camera to scan outside parking lot slot.
-  - title: Smart curtain
-  - layout: top-middle
-    description: | 
-         Smart curtian is simple project using <mark>Arduino</marj> and <mark>Lightsensor</mark>
-         when it's dark outside the curtain is programmed to go down and when it's in the morning it go up.
-  - title: A Little More About Me
-    layout: text
-    content: | # this will include new lines to allow paragraphs
-         When I am not programming I am mostly listening music. I go biking at least two times a week.
+  #- title: Smart curtain
+  #- layout: top-middle
+  #  description: | 
+  #       Smart curtian is simple project using <mark>Arduino</marj> and <mark>Lightsensor</mark>
+  #       when it's dark outside the curtain is programmed to go down and when it's in the morning it go up.
+ # - title: A Little More About Me
+  #  layout: text
+  #  content: | # this will include new lines to allow paragraphs
+  #       When I am not programming I am mostly listening music. I go biking at least two times a week.
  
 # Footer
 footer_show_references: true
